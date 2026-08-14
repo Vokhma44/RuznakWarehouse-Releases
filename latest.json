@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.2/RuznakWarehouse.apk",
-  "releaseNotes": "Первый стабильный релиз. Добавлены готовые FBS-поставки, два режима сборки, офлайн-очередь и проверка обновлений.",
+  "versionCode": 7,
+  "versionName": "0.3.3",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.3/RuznakWarehouse.apk",
+  "releaseNotes": "Тестовое обновление 0.3.3: проверка загрузки и установки новой версии внутри приложения.",
   "mandatory": false
 }
