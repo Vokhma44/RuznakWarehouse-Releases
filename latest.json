@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.3.5",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.5/RuznakWarehouse.apk",
-  "releaseNotes": "Карточка задания и контроль прогресса поставки",
-  "mandatory": false
+  "versionCode": 10,
+  "versionName": "0.3.6",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.6/RuznakWarehouse.apk",
+  "releaseNotes": "Новый фирменный значок приложения",
+  "mandatory": true
 }
