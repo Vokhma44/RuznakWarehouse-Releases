@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.8",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.8/RuznakWarehouse.apk",
-  "releaseNotes": "Сборка кодов маркировки Честный знак в УПД: новый документ или черновик портала, реквизиты по ИНН, таблица строк с расчётом НДС",
+  "versionCode": 13,
+  "versionName": "0.3.9",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.9/RuznakWarehouse.apk",
+  "releaseNotes": "Рабочий режим без демо-данных: вход по кабинету РУЗНАК, профиль организации, выгрузка УПД в XML по приказу ФНС № ЕД-7-26/970@ и раздел «История»",
   "mandatory": false
 }
