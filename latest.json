@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.3.7",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.7/RuznakWarehouse.apk",
-  "releaseNotes": "Обязательные обновления, сохранение состояния при повороте экрана и атомарная публикация релиза",
+  "versionCode": 12,
+  "versionName": "0.3.8",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.3.8/RuznakWarehouse.apk",
+  "releaseNotes": "Сборка кодов маркировки Честный знак в УПД: новый документ или черновик портала, реквизиты по ИНН, таблица строк с расчётом НДС",
   "mandatory": false
 }
