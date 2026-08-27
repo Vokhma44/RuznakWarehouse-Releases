@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.5.1",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.5.1/RuznakWarehouse.apk",
-  "releaseNotes": "Упрощён интерфейс поставок Wildberries: поставка создаётся только из новых заданий, добавлена кнопка назад, удалены неиспользуемые разделы.",
+  "versionCode": 23,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.6.0/RuznakWarehouse.apk",
+  "releaseNotes": "Сборка поставки по стикерам товара.\n\n- шапка поставки: дата, заказы, грузоместа, склад и QR-код поставки на весь экран;\n- сканирование в два шага: сначала стикер Wildberries с товара, затем его DataMatrix;\n- код уходит именно в то задание, что на стикере;\n- если QR стикера затёрт, номера с него вводятся вручную;\n- отказы объясняются словами: чужой товар, повтор в поставке, уже собранная единица;\n- передача в доставку требует подтверждения и предупреждает о несобранных кодах.\n\nТребует обновлённого сервера: без новых методов раздел ответит ошибкой.",
   "mandatory": false
 }
