@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.7.1",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.7.1/RuznakWarehouse.apk",
-  "releaseNotes": "Исправлено сканирование DataMatrix после стикера Wildberries.",
+  "versionCode": 26,
+  "versionName": "0.7.2",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.7.2/RuznakWarehouse.apk",
+  "releaseNotes": "Исправлено сканирование DataMatrix и подключение к продуктовому серверу РУЗНАК.",
   "mandatory": false
 }
