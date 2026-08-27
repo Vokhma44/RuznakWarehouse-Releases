@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.7.0/RuznakWarehouse.apk",
-  "releaseNotes": "Раздел «В доставке»: таблица переданных поставок со складом, временем сканирования QR и пропуском. QR-код поставки открывается прямо из строки, пропуск в СЦ оформляется на водителя и машину, а после сдачи поставка закрывается — состав отгрузки с кодами маркировки сохраняется на сервере и доступен в разделе «Закрытые поставки».",
+  "versionCode": 25,
+  "versionName": "0.7.1",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.7.1/RuznakWarehouse.apk",
+  "releaseNotes": "Упрощён интерфейс поставок Wildberries: поставка создаётся только из новых заданий, добавлена кнопка назад, удалены неиспользуемые разделы.",
   "mandatory": false
 }
