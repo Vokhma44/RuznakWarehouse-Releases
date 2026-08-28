@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.7.2",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.7.2/RuznakWarehouse.apk",
+  "versionCode": 27,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.8.0/RuznakWarehouse.apk",
   "releaseNotes": "Исправлено сканирование DataMatrix и подключение к продуктовому серверу РУЗНАК.",
   "mandatory": false
 }
