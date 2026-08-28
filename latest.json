@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.8.0/RuznakWarehouse.apk",
-  "releaseNotes": "Добавлен фирменный помощник РУЗНАКМЕН: обучение из шести экранов при первом входе и повторный запуск через «Ещё» → «Обучение».",
+  "versionCode": 28,
+  "versionName": "0.8.1",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.8.1/RuznakWarehouse.apk",
+  "releaseNotes": "Исправлено сканирование DataMatrix и подключение к продуктовому серверу РУЗНАК.",
   "mandatory": false
 }
