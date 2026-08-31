@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.8.1/RuznakWarehouse.apk",
-  "releaseNotes": "Исправлено закрытие приложения при переходе с четвёртого на пятый слайд обучения РУЗНАКМЕНА.",
+  "versionCode": 29,
+  "versionName": "0.8.2",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.8.2/RuznakWarehouse.apk",
+  "releaseNotes": "Исправлено сканирование DataMatrix и подключение к продуктовому серверу РУЗНАК.",
   "mandatory": false
 }
