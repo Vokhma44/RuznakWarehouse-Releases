@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.8.9",
-  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.8.9/RuznakWarehouse.apk",
-  "releaseNotes": "Улучшено сканирование: добавлено подтверждение товара между стикером и DataMatrix, предупреждения больше не прерывают поток, у каждого задания отображается прикреплённый код и доступно отдельное действие сканирования.",
+  "versionCode": 37,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/v0.9.0/RuznakWarehouse.apk",
+  "releaseNotes": "Счётчик в шапке сканирования считает по открытой позиции, а не смешивает её с количеством по всей поставке. Позиция с отменёнными в кабинете заданиями закрывается по оставшимся единицам и показывает число отмен. Собранное количество в списке позиций больше не остаётся нулём. Код маркировки разбирается строго с начала строки.",
   "mandatory": false
 }
