@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "0.8.4-test",
+  "versionCode": 32,
+  "versionName": "0.8.5-test",
   "apkUrl": "https://github.com/Vokhma44/RuznakWarehouse-Releases/releases/download/test-latest/RuznakWarehouse-test.apk",
   "releaseNotes": "Тестовая сборка для автономных симуляций поставок.",
   "mandatory": false
